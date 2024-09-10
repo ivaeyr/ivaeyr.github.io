@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ivaeyr.github.io/yPp/sitemap.yPp.gz
